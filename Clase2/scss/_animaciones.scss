@@ -1,0 +1,10 @@
+.animacion{
+    padding: 50px;
+    transition: transform .3s; 
+    margin: 0 auto;
+    &:hover {
+        transform: scale(1.2);
+    }
+}
+
+
