@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Varela+Round&display=swap");
 body {
-  background-image: url(../images/fondo2.jpg);
+  background-image: url(../images/fondo3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -11,6 +11,8 @@ body {
   border-top: 1px solid #e7e7e7; }
   .footer ul {
     text-decoration: none; }
+    .footer ul .link_item {
+      color: black !important; }
 
 .animacion {
   padding: 50px;
@@ -48,3 +50,8 @@ body {
 
 .text-center {
   margin-top: 220px; }
+
+.header{
+  margin-left: 20px;
+  margin-top: 10px;
+}  
